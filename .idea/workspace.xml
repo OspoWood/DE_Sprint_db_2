@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="885a18fc-34e3-46fb-b423-629d3167485b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2560eaf9-8dfa-4227-b509-c1754691e536.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2560eaf9-8dfa-4227-b509-c1754691e536.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
